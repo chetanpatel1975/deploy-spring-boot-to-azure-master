@@ -1,0 +1,6 @@
+/home/chetan/Devops/deploy-spring-boot-to-azure-master/06-todo-rest-api-mysql-containerized/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.java
+/home/chetan/Devops/deploy-spring-boot-to-azure-master/06-todo-rest-api-mysql-containerized/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaResource.java
+/home/chetan/Devops/deploy-spring-boot-to-azure-master/06-todo-rest-api-mysql-containerized/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java
+/home/chetan/Devops/deploy-spring-boot-to-azure-master/06-todo-rest-api-mysql-containerized/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java
+/home/chetan/Devops/deploy-spring-boot-to-azure-master/06-todo-rest-api-mysql-containerized/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java
+/home/chetan/Devops/deploy-spring-boot-to-azure-master/06-todo-rest-api-mysql-containerized/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaRepository.java
